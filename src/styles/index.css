@@ -1,3 +1,7 @@
+body {
+    background: #a5d6a7;
+}
+
 .post {
   height: 100px;
   width: 20px;
@@ -15,7 +19,7 @@
   border-radius: 10px;
 }
 
-.red {
+.redLight {
   background-color: red;
   height: 100px;
   width: 100px;
@@ -26,7 +30,7 @@
   transform: translate(-50%, -50%);
 }
 
-.yellow {
+.yellowLight {
   background-color: yellow;
   height: 100px;
   width: 100px;
@@ -37,7 +41,7 @@
   transform: translate(-50%, -50%);
 }
 
-.green {
+.greenLight {
   background-color: green;
   height: 100px;
   width: 100px;
