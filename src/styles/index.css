@@ -1,5 +1,5 @@
 body {
-    background: #a5d6a7;
+  background-color: #a5d6a7;
 }
 
 .post {
@@ -20,7 +20,7 @@ body {
 }
 
 .redLight {
-  background-color: red;
+  background-color: darkred;
   height: 100px;
   width: 100px;
   border-radius: 50%;
@@ -31,7 +31,7 @@ body {
 }
 
 .yellowLight {
-  background-color: yellow;
+  background-color: rgb(218, 180, 11);
   height: 100px;
   width: 100px;
   border-radius: 50%;
@@ -42,7 +42,7 @@ body {
 }
 
 .greenLight {
-  background-color: green;
+  background-color: rgb(1, 100, 14);
   height: 100px;
   width: 100px;
   border-radius: 50%;
